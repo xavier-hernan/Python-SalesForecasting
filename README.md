@@ -1,4 +1,4 @@
-# Python-premodeling
+# Python-SalesForecasting
 This project developed by a group of for students for INDITEX is a comprehensive data analysis project that utilizes Python programming language. The names of the students that participated in this project are included in the document. The project utilizes three different datasets provided by INDITEX, which were imported into the notebook using appropriate libraries.
 
 There are two main documents included. The premodeling one, including all the required treatments for the data. And the modeling one, including different models. The premodeling file is zipped as its size is bigger than accepted by Github.
